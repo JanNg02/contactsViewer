@@ -28,3 +28,5 @@ export interface Contacts {
     phone: string;
     cell: string; 
 }
+
+export type ContactList = Contacts;

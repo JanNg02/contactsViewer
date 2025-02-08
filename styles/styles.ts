@@ -72,6 +72,16 @@ const styles = StyleSheet.create({
       closeButtonText: {
         color: 'white',
       },
+      searchBar: {
+        height: 40,
+        borderColor: '#FFD65A',
+        borderWidth: 1,
+        borderRadius: 5,
+        marginBottom: 20,
+        paddingHorizontal: 10,
+        backgroundColor: '#FFF9E3',
+        color: '#000',
+      },
 }); 
 
 export default styles;

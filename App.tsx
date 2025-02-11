@@ -10,7 +10,7 @@ import ContactsList from './components/contactsList';
 const HomeScreen = ({}) => {
   return (
     <View style={styles.container}>
-      <Text style={styles.brandName}>Contacts List</Text>
+      <Text style={styles.brandName}>Contacts List insane</Text>
       <Provider store={store}>
         <ContactsList/>
       </Provider>
